@@ -1,2 +1,2 @@
 # egn-todo
-WordPress plugin to manage ToDo lists
+WordPress plugin to manage To-Do lists
